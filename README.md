@@ -36,9 +36,13 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ronaldojunior&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ronaldojunior&size_weight=0.1&count_weight=0.3&theme=transparent)
 
+---
+
 <!-- Portfolio -->
 ## Portfolio:
 - [100DaysOfCode](https://github.com/Dev-RonaldoJunior/100daysofcode)
+
+---
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->

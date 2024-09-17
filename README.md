@@ -42,6 +42,7 @@
 ## Portfolio:
 - [Cadastro e Listagem de produtos](https://github.com/Dev-RonaldoJunior/Cadastro-e-listagem-de-produtos)
 - [Ecommerce Sales Insight](https://github.com/Dev-RonaldoJunior/ecommerce-sales-insight)
+- [SafePassGen](https://github.com/Dev-RonaldoJunior/SafePassGen)
 
 ---
 

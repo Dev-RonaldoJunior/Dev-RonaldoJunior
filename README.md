@@ -41,7 +41,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Cadastro e Listagem de produtos](https://github.com/Dev-RonaldoJunior/Cadastro-e-listagem-de-produtos)
-- [PoupançaPy - Iniciante](https://github.com/Dev-RonaldoJunior/PoupancaPy)
+- [PoupançaPy - (Iniciante)](https://github.com/Dev-RonaldoJunior/PoupancaPy)
 - [SafePassGen](https://github.com/Dev-RonaldoJunior/SafePassGen)
 
 ---

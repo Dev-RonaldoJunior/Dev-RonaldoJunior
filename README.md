@@ -79,7 +79,8 @@
   <div style="flex-basis: 48%;">
     <h3>Frameworks</h3>
     <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-    <img align="center" alt="Flask" height="30" width="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+    <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />   
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </div>
@@ -97,5 +98,5 @@
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" height="30"  width="40" src="https://pandas.pydata.org/static/img/pandas_mark.svg"/>
     <img align="center" alt="SeaBorn" height="30"  width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
-    <img align="center" alt="Matplotlib" height="30"  width="30" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png"/>
+    <img align="center" alt="Matplotlib" height="30"  width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>          
   </div>

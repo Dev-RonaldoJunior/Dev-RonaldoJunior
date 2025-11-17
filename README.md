@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 style="display">🖖 Hello world! It's great to see you.🖖</h1>
-  <img src="https://profile-counter.glitch.me/Dev-RonaldoJunior/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Dev-RonaldoJunior/count.svg"/>
 </div>
 
 ###

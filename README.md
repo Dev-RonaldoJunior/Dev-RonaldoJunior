@@ -73,8 +73,8 @@
 <!-- Skills: Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Frameworks</h3>
-    <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />   
-    <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
+    <img align="center" alt="Flask" height="30" width="40" src="https://icons8.com/icons/set/flask-python"/>   
+    <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </div>
 
